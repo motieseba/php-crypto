@@ -1,0 +1,46 @@
+.main{
+    margin:0 auto;
+}
+.card{
+    display: grid;
+}
+.single-card{
+    width: 18rem;
+    margin: auto;
+}
+.single-card-img{
+    width: 75px;
+    margin: 10px auto;
+}
+.single-card-text{
+    margin: 5px;
+}
+.price-up{
+    color: green;
+    font-weight: bold;
+
+}
+.price-down{
+    color: red;
+    font-weight: bold;
+}
+.arrow-up{
+    color: green;
+    font-weight: bold;
+}
+.arrow-down{
+    color: red;
+    font-weight: bold;
+}
+.currency-symbole{
+    font-weight: bold;
+}
+.my-title{
+    font-family: 'Courier New', Courier, monospace;
+    color: darkorange;
+}
+.logo-img{
+    width: 75px;
+    border-radius: 10px;
+    margin: 10px;
+}
